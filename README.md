@@ -56,3 +56,4 @@ npx expo start -c
 - SQLite のローカル DB ファイルが追跡されていないこと
 
 # subscription-app
+# subscription-app
