@@ -10,7 +10,7 @@ yarn-error.log*
 # Environment files
 .env
 .env.*
-.env.example
+!.env.example
 
 # SQLite / local database files
 *.db
